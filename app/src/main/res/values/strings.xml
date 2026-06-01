@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DispositivosMoveis</string>
+
+    <string-array name="lista_estados">
+        <item>Santa Catarina</item>
+        <item>Paraná</item>
+        <item>Rio Grande do Sul</item>
+        <item>São Paulo</item>
+    </string-array>
 </resources>
