@@ -1,4 +1,4 @@
-package com.example.dispositivosmoveis;
+package com.example.locationmanager;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -11,7 +11,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
-import com.example.locationmanager.R;
 import org.osmdroid.config.Configuration;
 import org.osmdroid.util.GeoPoint;
 import org.osmdroid.views.MapView;
